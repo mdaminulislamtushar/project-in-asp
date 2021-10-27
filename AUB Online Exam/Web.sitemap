@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Home"  description="" >
+        <siteMapNode url="" title="Home"  description="Home page" />
+      <siteMapNode url="#" title="Subjects"  description="subjects sub menu">
+      <siteMapNode url="" title="C"  description="C" />
+        <siteMapNode url="" title="C++"  description="C++" />
+        <siteMapNode url="" title="Java"  description="Java" />
+        <siteMapNode url="" title="Oracle"  description="Oracle" >
+          <siteMapNode url="" title="PLSQL"  description="PLSQL" />
+            <siteMapNode url="" title="SQL"  description="SQL" />
+        </siteMapNode>
+        <siteMapNode url="" title="C#"  description="C#" />
+        <siteMapNode url="" title="Asp.Net"  description="Asp.Net" />
+      </siteMapNode>
+     <siteMapNode url="question_answer.aspx" title="Exam"  description="start exam" />
+      <siteMapNode url="" title="About Us"  description="About Us" />
+      <siteMapNode url="" title="Contact"  description="Contact" />
+  <siteMapNode url="result_board.aspx" title="ResultBoard"  description="result_board" />
+      <siteMapNode url="registration.aspx" title="Registration"  description="registration" />
+   <siteMapNode url="login.aspx" title="LOGIN"  description="Login" />
+  </siteMapNode>
+</siteMap>
