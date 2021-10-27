@@ -1,0 +1,57 @@
+﻿
+body {
+           
+        }
+        .main_menu
+    {
+        width: 100px;
+        background-color: #8AE0F2;
+        color: #000;
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 5px;
+    }
+    .level_menu
+    {
+        width: 110px;
+        background-color:#8AE0F2;
+        color: #000;
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        margin-top: 5px;
+    }
+    .selected
+    {
+        background-color: #852B91;
+        color: #000;
+    }
+  
+#maindiv1 {
+    width: 100%;
+}
+
+#div1 {
+    width: 10%;
+    float: left;
+}
+
+#div2 {
+    width: 90%;
+    float: right;
+}
+
+#maindiv5 {
+    width: 100%;
+}
+
+.div5 {
+    
+     float: left;
+}
+
+.div6 {
+     float: right;
+    
+}
