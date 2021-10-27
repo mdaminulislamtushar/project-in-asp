@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment_enlightsolution", "assignment_enlightsolution.csproj", "{669B7536-C0BF-45A2-BDCA-81F4CF9D47ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669B7536-C0BF-45A2-BDCA-81F4CF9D47ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669B7536-C0BF-45A2-BDCA-81F4CF9D47ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669B7536-C0BF-45A2-BDCA-81F4CF9D47ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669B7536-C0BF-45A2-BDCA-81F4CF9D47ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293E317C-7302-4A57-B56E-9EFD74D0F4AD}
+	EndGlobalSection
+EndGlobal
